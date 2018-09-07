@@ -1,0 +1,11 @@
+/home/chris/Documents/School related/fall 2018/C#Programming/code/assignmentOne/bin/Debug/netcoreapp2.1/assignmentOne.deps.json
+/home/chris/Documents/School related/fall 2018/C#Programming/code/assignmentOne/bin/Debug/netcoreapp2.1/assignmentOne.runtimeconfig.json
+/home/chris/Documents/School related/fall 2018/C#Programming/code/assignmentOne/bin/Debug/netcoreapp2.1/assignmentOne.runtimeconfig.dev.json
+/home/chris/Documents/School related/fall 2018/C#Programming/code/assignmentOne/bin/Debug/netcoreapp2.1/assignmentOne.dll
+/home/chris/Documents/School related/fall 2018/C#Programming/code/assignmentOne/bin/Debug/netcoreapp2.1/assignmentOne.pdb
+/home/chris/Documents/School related/fall 2018/C#Programming/code/assignmentOne/obj/Debug/netcoreapp2.1/assignmentOne.csprojAssemblyReference.cache
+/home/chris/Documents/School related/fall 2018/C#Programming/code/assignmentOne/obj/Debug/netcoreapp2.1/assignmentOne.csproj.CoreCompileInputs.cache
+/home/chris/Documents/School related/fall 2018/C#Programming/code/assignmentOne/obj/Debug/netcoreapp2.1/assignmentOne.AssemblyInfoInputs.cache
+/home/chris/Documents/School related/fall 2018/C#Programming/code/assignmentOne/obj/Debug/netcoreapp2.1/assignmentOne.AssemblyInfo.cs
+/home/chris/Documents/School related/fall 2018/C#Programming/code/assignmentOne/obj/Debug/netcoreapp2.1/assignmentOne.dll
+/home/chris/Documents/School related/fall 2018/C#Programming/code/assignmentOne/obj/Debug/netcoreapp2.1/assignmentOne.pdb
