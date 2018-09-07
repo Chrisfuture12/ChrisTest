@@ -24,7 +24,7 @@ namespace assignmentOne
            WriteLine("Hafsa: A fun fact about me is that Red is my favorite color.");
           WriteLine("Chris: A fun fact about me is that i love food.");
           WriteLine("Eunice: A fun fact about me is that i have a twin brother.");
-          WriteLine("Chris created this file!!!!");
+          WriteLine("Chris created this file.");
         }
     }
 }
